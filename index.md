@@ -17,9 +17,6 @@
 <a href="https://bit.ly/novidadenovelas">
 <img src="https://tinyurl.com/ybrg85o5" alt="pikachu">
 </a>
-<a href="https://bit.ly/novidadeinfantil">
-<img src="https://tinyurl.com/y9pkjsed" alt="pikachu">
-</a>
 <a href="https://bit.ly/novidadesforno">
 <img src="https://tinyurl.com/y8r3h7x2" alt="pikachu">
 </a>
