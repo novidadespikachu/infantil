@@ -4,8 +4,19 @@
   <div align="center"><img src="https://tinyurl.com/ydahh4kf" alt="Addon Pikachu"> <img src="https://tinyurl.com/y86yjky9" alt="Addon Pikachu"></div>
   
 # Aguardem
-<img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif" alt="pikachu">
+<table style="width:100%"><tr><th><center><b> TV no menu infantil superfuncional! - 1080p - Dublado </b></center></th></tr>
+<tr><td><div align="center"><img src="https://raw.githubusercontent.com/novidadespikachu/btns/master/Imgs/Infantil/Inf%20(1).png" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Área infantil está pronta para entreter sua criança</justify></td></tr></table>
 
+
+<table style="width:100%"><tr><th><center><b> Area infantil disponível no addon Pikachu! - 1080p - Dublado </b></center></th></tr>
+<tr><td><div align="center"><img src="https://raw.githubusercontent.com/novidadespikachu/btns/master/Imgs/Infantil/Inf%20(2).png" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Area pensada para crianças, traga as crianças para se divertir com o pikachu</justify></td></tr></table>
+
+
+<table style="width:100%"><tr><th><center><b> Area de sucessos infantil no YouTube - 1080p - Dublado </b></center></th></tr>
+<tr><td><div align="center"><img src="https://raw.githubusercontent.com/novidadespikachu/btns/master/Imgs/Infantil/Inf%20(3).png" alt="Addon Pikachu"></div></td></tr>
+<tr><td><justify>Área infantil está pronta para entreter sua criança</justify></td></tr></table>
 <a href="https://bit.ly/pikachufull">
 <img src="https://tinyurl.com/y9zk36eq" alt="pikachu">
 </a>
